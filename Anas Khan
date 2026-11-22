@@ -1,0 +1,62 @@
+Act as a senior UI/UX designer and full-stack web developer. Build a modern, high-converting, responsive E-Commerce Specialist Portfolio website for me using clean HTML5, Tailwind CSS, and JavaScript (or React).
+
+### 1. Personal & Contact Details (Integrate seamlessly across the site):
+- **Name:** [Apna Poora Naam Yahan Likhein]
+- **Title / Tagline:** E-Commerce Specialist | Shopify & WooCommerce Expert | Digital Growth Strategist
+- **WhatsApp Number:** +92 311 1530686 (Create direct clickable "Chat on WhatsApp" buttons linking to `https://wa.me/923111530686` and a floating WhatsApp icon at the bottom right)
+- **Email:** ansak8513@gmail.com (Create clickable `mailto:ansak8513@gmail.com` links and a copy-email button)
+- **Location:** Pakistan (Available for Global Remote Projects)
+
+### 2. Visual Design & Aesthetic:
+- **Theme:** Sleek, modern dark-mode or clean light-mode executive look with deep navy/slate (`#0F172A`), crisp white, and vibrant emerald green (`#10B981`) or royal blue (`#2563EB`) accent buttons.
+- **Typography:** Modern sans-serif fonts (`Plus Jakarta Sans` or `Inter`) with bold, high-contrast headings.
+- **UI Style:** Glassmorphism cards, subtle hover animations, smooth scrolling, mobile-first responsiveness, and clean whitespace.
+
+### 3. Website Sections & Content Structure:
+
+1. **Sticky Navigation Bar:**
+   - Brand logo/name on the left.
+   - Links: Home, About, Services, Portfolio, Results, Contact.
+   - Primary CTA button on the right: "Hire Me on WhatsApp" (links to `https://wa.me/923111530686`).
+
+2. **Hero Section (Above the Fold):**
+   - Headline: "Scaling E-Commerce Brands from Zero to High-Converting Stores."
+   - Subheadline: "I help businesses build, optimize, and scale profitable online stores on Shopify, WooCommerce, and Amazon with data-driven strategies."
+   - Two CTA buttons: Primary ("Let's Talk on WhatsApp" -> `https://wa.me/923111530686`) and Secondary ("View My Work" -> scrolls to Portfolio).
+   - Quick trust metrics bar: `50+ Stores Launched` | `3.5x Average ROAS` | `100% Client Satisfaction`.
+
+3. **About Me Section:**
+   - Professional bio highlighting passion for e-commerce, product hunting, store design, conversion rate optimization (CRO), and customer retention.
+   - Key skills badges: Shopify, WooCommerce, Daraz/Amazon Seller Central, Meta & TikTok Ads, SEO, Payment Gateway Integration, Dropshipping & Private Label.
+
+4. **Services Section (Grid of 6 Cards with Icons):**
+   - **Store Setup & Design:** Custom, mobile-responsive Shopify & WooCommerce store development.
+   - **Product Research & Listing:** Winning product hunting, high-converting descriptions, and SEO optimization.
+   - **Conversion Rate Optimization (CRO):** Speed optimization, checkout flow improvement, and persuasive product pages.
+   - **E-Commerce Marketing & Ads:** Targeted Meta (Facebook/Instagram) and TikTok ad campaigns for consistent sales.
+   - **Store Management & Fulfillment:** Inventory tracking, order processing, and customer support systems.
+   - **Analytics & Scaling:** Tracking pixels, funnel analysis, and scaling winning products.
+
+5. **Featured Portfolio / Case Studies (Filterable Grid):**
+   - Create 4 realistic, impressive e-commerce project cards with placeholder mockup images, store niche, challenges solved, and measurable results (e.g., "Fashion & Apparel Shopify Store — +145% Conversion Rate", "Electronics & Gadgets Store — $25k+ Monthly Revenue", "Organic Skincare Brand — 4.2x Ad ROAS", "Local Pakistani D2C Brand — Complete COD & Payment Setup").
+   - Include a "View Case Study" modal or expandable details for each project.
+
+6. **Why Choose Me / Work Process (4-Step Timeline):**
+   - Step 1: Discovery & Store Audit
+   - Step 2: Strategy & UI/UX Blueprint
+   - Step 3: Store Development & Optimization
+   - Step 4: Launch, Marketing & Scaling
+
+7. **Client Testimonials:**
+   - 3 clean review cards with 5-star ratings from satisfied e-commerce store owners.
+
+8. **Contact & Lead Capture Section:**
+   - Direct contact cards showing:
+     - **WhatsApp:** +92 311 1530686 (with instant chat button)
+     - **Email:** ansak8513@gmail.com (with direct mail link)
+   - A clean, working contact form (Name, Email, Store Link/Niche, Message) with a submit button that shows a confirmation message or opens WhatsApp/Email pre-filled.
+
+9. **Footer:**
+   - Copyright text, quick links, social media placeholders, WhatsApp (`03111530686`), and Email (`ansak8513@gmail.com`).
+
+Make sure the code is complete, single-file ready (or cleanly structured), bug-free, and visually stunning.
